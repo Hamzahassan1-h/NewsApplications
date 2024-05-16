@@ -7,4 +7,8 @@
     <string name="canada_article">Canada Articles</string>
     <string name="news">news</string>
     <string name="avatar">avatar</string>
+    <string name="passwords">Password</string>
+    <string name="emails">emails</string>
+    <string name="google_loginn">Google Login</string>
+    <string name="log">Login</string>
 </resources>
